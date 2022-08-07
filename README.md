@@ -1,2 +1,2 @@
 # CV
-Personal Unofficial CV
+Personal Unofficial curriculum vitae
